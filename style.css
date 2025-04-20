@@ -15,7 +15,7 @@ h3 {
 }
 
 #About-me {
-  background-color: aqua;
+  background-color: skyblue;
   border-radius: 30px;
   padding: auto;
   width: 400px;
@@ -25,7 +25,11 @@ h3 {
   padding: 20px;
 }
 #Project{
-  background-color: yellowgreen;
+  background-color: mistyrose;
+  border-radius: 30px;
+  padding: auto;
+  width: 500px;
+  margin: 0 auto;
 }
 .profile-user-img{
   width: 200px;
@@ -33,6 +37,7 @@ h3 {
   border-radius: 50%;
   margin: 0 auto;
 }
+
 
 #footer{
   background-color: lightgray;
